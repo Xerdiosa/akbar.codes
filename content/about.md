@@ -11,7 +11,8 @@ I focus on back-end engineering, mainly in Go.
 
 ### **[Shopee](https://shopee.com)** - *Software Engineer (Promoted to Senior Engineer in 2025)*
 
-August 2022 - Present\
+*August 2022 - Present*
+
 Backend engineer in the Order Payment domain, primary owner (PIC) of refund system services, responsible for reliability, feature delivery, and operations across multiple regions.
 
 - Designed a workaround for incompatible payment state machines, enabling safe payment method switching and unblocking feature delivery
@@ -28,7 +29,7 @@ Backend engineer in the Order Payment domain, primary owner (PIC) of refund syst
 
 ### **[GudangAda](https://gudangada.com)** - *Software Engineer Intern*
 
-Jul 2021 - Jul 2022\
+*Jul 2021 - Jul 2022*
 
 - Developed a Kubernetes Operator (Go) to automate service deployment workflows
 - Reduced deployment complexity and improved developer experience for internal Kubernetes services
@@ -36,7 +37,7 @@ Jul 2021 - Jul 2022\
 
 ### **[Bareksa](https://bareksa.com)** - *Software Engineer Intern*
 
-June 2020 - June 2021\
+*June 2020 - June 2021*
 
 - Built and maintained REST APIs using Go and Node.js for fintech applications
 - Implemented caching mechanisms (Redis) to improve system performance
@@ -44,7 +45,7 @@ June 2020 - June 2021\
 
 ### **[SIRCLO](https://sirclo.com)** - *Software Engineer Intern*
 
-June 2019 - August 2019\
+*June 2019 - August 2019*
 
 - Developed backend features in Go for e-commerce systems
 - Implemented REST APIs and handled partner API integration & error mapping
